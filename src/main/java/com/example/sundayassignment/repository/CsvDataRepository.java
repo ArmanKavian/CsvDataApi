@@ -1,4 +1,4 @@
-package com.example.sundayassignment.domain.repository;
+package com.example.sundayassignment.repository;
 
 import com.example.sundayassignment.domain.CsvData;
 import org.springframework.data.repository.CrudRepository;

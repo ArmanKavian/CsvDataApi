@@ -1,4 +1,4 @@
-package com.example.sundayassignment.usecase;
+package com.example.sundayassignment.service;
 
 import org.springframework.web.multipart.MultipartFile;
 

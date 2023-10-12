@@ -1,4 +1,4 @@
-package com.example.sundayassignment.controller.dto;
+package com.example.sundayassignment.dto;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

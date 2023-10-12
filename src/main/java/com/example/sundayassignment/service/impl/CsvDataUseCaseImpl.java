@@ -1,8 +1,8 @@
-package com.example.sundayassignment.usecase.impl;
+package com.example.sundayassignment.service.impl;
 
 import com.example.sundayassignment.domain.CsvData;
-import com.example.sundayassignment.domain.repository.CsvDataRepository;
-import com.example.sundayassignment.usecase.UploadFileUseCase;
+import com.example.sundayassignment.repository.CsvDataRepository;
+import com.example.sundayassignment.service.UploadFileUseCase;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import org.springframework.beans.factory.annotation.Autowired;

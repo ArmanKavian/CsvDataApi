@@ -1,6 +1,4 @@
-package com.example.sundayassignment.usecase;
-
-import com.example.sundayassignment.domain.CsvData;
+package com.example.sundayassignment.service;
 
 public interface DeleteDataUseCase {
     void deleteAllData();
